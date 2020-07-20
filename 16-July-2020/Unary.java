@@ -7,7 +7,7 @@ class UnaryDemo {
 		System.out.println(+num);     //10
 		System.out.println(-num);     //-10
 		*/
-		System.out.println(++num);     //10
-                System.out.println(--num);
+		System.out.println(++num);     //11
+                System.out.println(--num);    //10
 	}
 }
